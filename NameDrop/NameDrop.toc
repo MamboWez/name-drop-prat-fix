@@ -1,0 +1,21 @@
+## OptionalDeps: Prat-3.0
+## Interface: 16001
+
+## Title: Name Drop
+## Version: 1.0.0-prat-fix1
+## Notes: Shortens last names in chat and on frames to just enough letters to tell people apart (Frost W., Frost Win.).
+## Author: Frost-Lightbringer
+## X-Curse-Project-ID: 1764384
+## IconTexture: Interface\ICONS\INV_Misc_Note_01
+## Category: Chat
+
+## AllowLoadGameType: camelot
+## DefaultState: enabled
+## SavedVariables: NameDropDB
+
+Names.lua
+Core.lua
+Chat.lua
+PratCompat.lua
+Frames.lua
+Options.lua
