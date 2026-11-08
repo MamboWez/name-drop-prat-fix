@@ -6,10 +6,7 @@
 
 A World of Warcraft: Forever addon that shortens character surnames without losing the ability to tell players apart — now with a compatibility fix for **Prat 3.0**.
 
-![WoW Forever](https://img.shields.io/badge/WoW-Forever-315f91?style=flat-square)
-![Prat 3.0](https://img.shields.io/badge/Prat%203.0-Compatible-238636?style=flat-square)
-![Lua](https://img.shields.io/badge/Language-Lua-5555a4?style=flat-square)
-![Version](https://img.shields.io/badge/Version-1.0.0--prat--fix1-555?style=flat-square)
+**WoW Forever** · **Prat 3.0 compatible** · **Lua** · **v1.0.0-prat-fix1**
 
 [Features](#-features) · [Installation](#-installation) · [Prat setup](#-prat-30-compatibility) · [Commands](#-slash-commands) · [Troubleshooting](#-troubleshooting)
 
